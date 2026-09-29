@@ -32,7 +32,7 @@ This project uses the **Mathematics course dataset (`student-mat.csv`)** from th
 **Repository Source:** UCI Machine Learning Repository  
 **Dataset DOI:** `10.24432/C5TG7T`
 
-### 📂 File Structure
+## 📂 File Structure
 
 ```text
 study-habits-academic-performance/
@@ -40,3 +40,6 @@ study-habits-academic-performance/
 └── data/
     ├── student-mat.csv
     └── student-mat-clean.xlsx
+        ├── student-mat-clean (worksheet)
+        └── Data Dictionary (worksheet)
+```
