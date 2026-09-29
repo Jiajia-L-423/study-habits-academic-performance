@@ -18,3 +18,25 @@ This learning analytics project examines the relationship between students' stud
 **Geographic Location:** Portugal (data collected from two Portuguese secondary schools: Gabriel Pereira and Mousinho da Silveira)
 **Data Collection Date:** Not specified in the dataset documentation  
 **Funding:** Not specified in the dataset documentation
+## 📁 Data & File Overview
+
+This project uses the **Mathematics course dataset (`student-mat.csv`)** from the UCI Student Performance Dataset. The dataset contains student achievement data from two Portuguese secondary schools and includes student grades, demographic, social, and school-related information.
+
+**Dataset Used:** Student Performance – Mathematics Course  
+**Original File:** `student-mat.csv`  
+**Working File:** `student-mat-clean.xlsx`  
+**File Format:** CSV (original), XLSX (working copy)  
+**Number of Cases:** 395 students  
+**Number of Variables:** 33  
+**Missing Values:** None reported in the original dataset documentation  
+**Repository Source:** UCI Machine Learning Repository  
+**Dataset DOI:** `10.24432/C5TG7T`
+
+### 📂 File Structure
+
+```text
+study-habits-academic-performance/
+├── README.md
+└── data/
+    ├── student-mat.csv
+    └── student-mat-clean.xlsx
