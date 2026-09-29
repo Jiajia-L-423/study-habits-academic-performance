@@ -57,3 +57,31 @@ The original Student Performance dataset is publicly available through the UCI M
 Cortez, P. (2008). *Student Performance* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T
 
 **Access Restrictions:** None. The original dataset is publicly available.
+## 🔬 Methodological Information
+
+### Study Design
+This project uses a quantitative, observational approach to examine the association between students' study-related behaviors and academic performance.
+
+### Data Collection
+The data were originally collected from two Portuguese secondary schools using school reports and questionnaires. This project uses the Mathematics course dataset (`student-mat.csv`), which contains 395 student records and 33 variables.
+
+### Variables of Interest
+The analysis focuses on three study-related variables:
+
+- **studytime:** Weekly study time, coded from 1 to 4.
+- **absences:** Number of school absences.
+- **activities:** Participation in extracurricular activities, coded as `yes` or `no`.
+
+Academic performance is measured using:
+
+- **G3:** Final mathematics grade, ranging from 0 to 20.
+
+### Data Processing
+The original semicolon-delimited CSV file was preserved without modification. A separate working copy (`student-mat-clean.xlsx`) was created for data preparation and documentation. The data were separated into individual columns, variable names were retained, and a Data Dictionary worksheet was added to document the variables, measurement units, and allowed values or ranges.
+
+### Data Quality Assurance
+The working dataset was checked for proper column separation and variable structure. According to the original dataset documentation, no missing values are reported. Variable ranges and categorical codes were documented in the Data Dictionary to support consistency and interpretation.
+
+### Software
+- Microsoft Excel – data preparation, organization, and Data Dictionary creation
+- GitHub – README documentation, file storage, and version tracking
