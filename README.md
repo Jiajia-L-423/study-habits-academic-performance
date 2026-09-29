@@ -85,3 +85,30 @@ The working dataset was checked for proper column separation and variable struct
 ### Software
 - Microsoft Excel – data preparation, organization, and Data Dictionary creation
 - GitHub – README documentation, file storage, and version tracking
+## 🧾 Data-Specific Information
+
+The Mathematics course dataset contains **395 student records and 33 variables**. Each row represents one student, and each column represents a demographic, social, school-related, behavioral, or academic variable.
+
+### Variable Documentation
+A complete Data Dictionary is included in the `Data Dictionary` worksheet of `student-mat-clean.xlsx`. The dictionary documents all 33 variables and includes:
+
+- Variable name
+- Description
+- Data type
+- Measurement / unit
+- Allowed values / range
+
+### Key Variables for This Project
+
+| Variable | Description | Measurement / Allowed Values |
+|---|---|---|
+| `studytime` | Weekly study time | 1 = <2 hours; 2 = 2–5 hours; 3 = 5–10 hours; 4 = >10 hours |
+| `absences` | Number of school absences | 0–93 |
+| `activities` | Participation in extracurricular activities | yes; no |
+| `G3` | Final mathematics grade | 0–20 |
+
+### Missing Data
+The original dataset documentation reports **no missing values**. Therefore, no special missing-value code is used in this dataset.
+
+### Data Dictionary Location
+`data/student-mat-clean.xlsx` → `Data Dictionary` worksheet
