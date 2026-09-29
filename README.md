@@ -43,3 +43,17 @@ study-habits-academic-performance/
         ├── student-mat-clean (worksheet)
         └── Data Dictionary (worksheet)
 ```
+## 🔓 Sharing & Access Information
+
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The original Student Performance dataset is publicly available through the UCI Machine Learning Repository. It may be shared and adapted for any purpose, provided that appropriate credit is given.
+
+**Dataset Source:** UCI Machine Learning Repository – Student Performance Dataset
+
+**Dataset DOI:** 10.24432/C5TG7T
+
+**Recommended Citation:**  
+Cortez, P. (2008). *Student Performance* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5TG7T
+
+**Access Restrictions:** None. The original dataset is publicly available.
