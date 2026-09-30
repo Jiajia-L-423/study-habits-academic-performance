@@ -46,6 +46,14 @@ This project uses the **Mathematics course dataset (`student-mat.csv`)** from th
 **Repository Source:** UCI Machine Learning Repository  
 **Dataset DOI:** `10.24432/C5TG7T`
 
+**Project File Creation Date:** September 2026
+
+**Version:** 1.0
+
+**Last Updated:** September 2026
+
+**Version Notes:** Initial version of the project repository, including the original dataset, cleaned working file, Data Dictionary, and README documentation.
+
 ## 📂 File Structure
 
 ```text
