@@ -113,6 +113,9 @@ The working dataset was checked for proper column separation and variable struct
 ### Software
 - Microsoft Excel – data preparation, organization, and Data Dictionary creation
 - GitHub – README documentation, file storage, and version tracking
+- ### Researcher Role
+
+**Jiajia Li** is responsible for data preparation, documentation, Data Dictionary creation, project organization, and README development. The original data collection was conducted by the creators of the UCI Student Performance Dataset.
 ## 🧾 Data-Specific Information
 
 The Mathematics course dataset contains **395 student records and 33 variables**. Each row represents one student, and each column represents a demographic, social, school-related, behavioral, or academic variable.
