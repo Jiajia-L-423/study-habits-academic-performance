@@ -1,5 +1,16 @@
 # 📊 Study Habits and Academic Performance
 
+<p align="center">
+  <img src="images/2.jpg" alt="Learning Analytics and Student Performance" width="750">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Field-Learning%20Analytics-4A90E2" alt="Learning Analytics">
+  <img src="https://img.shields.io/badge/Metadata-DDI-66A182" alt="DDI">
+  <img src="https://img.shields.io/badge/Dataset-UCI-F4A261" alt="UCI Dataset">
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-9B72CF" alt="CC BY 4.0">
+</p>
+
 > **Research Question:** How are students' study-related behaviors associated with their academic performance in a mathematics course?
 
 ## 📌 General Information
@@ -58,7 +69,13 @@ Cortez, P. (2008). *Student Performance* [Dataset]. UCI Machine Learning Reposit
 
 **Access Restrictions:** None. The original dataset is publicly available.
 ## 🔬 Methodological Information
+### Project Workflow
 
+<p align="center">
+  <img src="images/1.png" alt="Learning Analytics Project Workflow" width="950">
+</p>
+
+*Figure 1. Workflow of the learning analytics project from student data and study behaviors to academic performance.*
 ### Study Design
 This project uses a quantitative, observational approach to examine the association between students' study-related behaviors and academic performance.
 
