@@ -112,3 +112,21 @@ The original dataset documentation reports **no missing values**. Therefore, no 
 
 ### Data Dictionary Location
 `data/student-mat-clean.xlsx` → `Data Dictionary` worksheet
+## 🏷️ Metadata Standard
+
+**Selected Metadata Standard:** Data Documentation Initiative (DDI)
+
+The Data Documentation Initiative (DDI) was selected as the metadata standard for this project. DDI is designed to support the documentation of research data in the social, behavioral, and economic sciences.
+
+DDI is appropriate for this learning analytics project because the Student Performance dataset contains student-level variables collected through school reports and questionnaires. The dataset includes demographic, social, behavioral, and academic variables that require clear descriptions, coding information, measurement information, and allowed values for accurate interpretation.
+
+In this project, DDI principles are reflected through the documentation of:
+
+- Dataset and study-level information
+- Variable names and descriptions
+- Data types and measurement information
+- Codes, categories, and allowed values
+- Data source and collection information
+- Dataset citation and identification information
+
+The **Data Dictionary** included in `student-mat-clean.xlsx` provides variable-level documentation for all 33 variables and supports consistent interpretation and reuse of the dataset.
