@@ -26,8 +26,11 @@ This learning analytics project examines the relationship between students' stud
 **Subject Area:** Education / Learning Analytics  
 **Keywords:** Learning Analytics, Study Habits, Academic Performance, Student Performance, Mathematics Education  
 **Language:** English
+
 **Geographic Location:** Portugal (data collected from two Portuguese secondary schools: Gabriel Pereira and Mousinho da Silveira)
+
 **Data Collection Date:** Not specified in the dataset documentation  
+
 **Funding:** Not specified in the dataset documentation
 ## 📁 Data & File Overview
 
