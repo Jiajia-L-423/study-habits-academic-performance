@@ -130,3 +130,14 @@ In this project, DDI principles are reflected through the documentation of:
 - Dataset citation and identification information
 
 The **Data Dictionary** included in `student-mat-clean.xlsx` provides variable-level documentation for all 33 variables and supports consistent interpretation and reuse of the dataset.
+## 💭 README Creation & Reflection
+
+### Template / Software Used
+
+This README was created using **GitHub Markdown**. The structure was designed based on the README documentation guidelines introduced in class. **Microsoft Excel** was used to organize the dataset and create the Data Dictionary, while **GitHub** was used to create the README, store the project files, and track changes.
+
+### Most Challenging Part
+
+The most challenging part was deciding how much information should be included in the README while keeping the documentation clear and easy to understand. In particular, documenting all variables and their different coding systems, measurement units, and allowed values required careful organization.
+
+I addressed this challenge by creating a separate **Data Dictionary** worksheet in Excel. I reviewed each variable individually and organized its variable name, description, data type, measurement/unit, and allowed values or range. This made the README more concise while still providing detailed documentation for the dataset.
